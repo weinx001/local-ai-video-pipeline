@@ -1,0 +1,20 @@
+{
+  "shots": [
+    {
+      "name": "example_preview",
+      "image": "example_start.png",
+      "prompt": "A lone traveler walks one steady step toward a rain-lit doorway while keeping both hands visible.",
+      "tier": "preview",
+      "width": 384,
+      "height": 576,
+      "length": 61,
+      "fps": 24,
+      "steps": 4,
+      "cfg": 1.0,
+      "shift": 5.0,
+      "sampler_name": "euler",
+      "scheduler": "simple",
+      "seed": 6102
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated media and model files
+*.mp4
+*.mov
+*.webm
+*.safetensors
+*.gguf
+*.ckpt
+*.pt
+*.pth
+
+# Local run state and logs
+output/
+outputs/
+runs/
+work/jobs/
+*.log
+*.pid
+*.exit
