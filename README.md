@@ -31,6 +31,8 @@ An end-to-end validation short was also assembled at 1080x1920, 30 fps, 31 secon
 
 See [docs/benchmarks.md](docs/benchmarks.md) for the measurement details and caveats.
 
+The next planned hardware validation is documented in [docs/rocm-validation-plan.md](docs/rocm-validation-plan.md).
+
 ## What is included
 
 - `scripts/wan22_shots.py` - validates shot profiles, builds a ComfyUI API graph, submits jobs serially, waits with deadlines, and supports resume.
